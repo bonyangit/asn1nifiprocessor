@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="bonyanASN1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bonyanASN1_jar</output-path>
+    <root id="archive" name="bonyanASN1.jar">
+      <element id="module-output" name="bonyanASN1" />
+    </root>
+  </artifact>
+</component>

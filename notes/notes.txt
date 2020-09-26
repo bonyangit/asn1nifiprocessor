@@ -1,0 +1,3 @@
+D:\asn1bean-1.12.0\asn1bean\bin>asn1bean-compiler -f D:\BonyanSystem\ASN1_SCHEMA\pgwcdr_complete.asn -o  D:\ASN1_SCHEMA\pgwcdrclasses_complete
+===============================================================================================================================
+java -jar bonyanASN1.jar -csv -ifile "C:\dat\G_GECRHA01_ERHpgwcdr20200915235822000007469_07786693.dat" -odir "C:\dat\output"
